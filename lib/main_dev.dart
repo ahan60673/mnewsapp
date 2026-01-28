@@ -8,7 +8,7 @@ import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:tv/helpers/environment.dart';
 import 'package:tv/mNewsApp.dart';
 import 'package:tv/services/comscoreService.dart';
-import 'package:firebase_crashlytics/firebase_crashlytics.dart'; // ★ 新增
+import 'package:firebase_crashlytics/firebase_crashlytics.dart';
 
 
 void main() async {
